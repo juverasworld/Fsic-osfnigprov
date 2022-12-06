@@ -89,3 +89,27 @@ button {
     }
 
 }
+/* For Blogging Page */
+.custom-Time{
+    display: flex;
+    flex-direction: row;
+}
+.times{
+margin:10%;
+}
+.containImage{
+    width: 100%;
+    height: 50vh;
+}
+.imagess{
+    margin-top:3%;
+    /* margin-left: 10%; */
+    width:50%;
+    height: 50vh;
+}
+.empty{
+    background-color:yellow;
+    width:100%;
+    height:60vh;
+    
+}
